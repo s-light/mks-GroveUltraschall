@@ -1,6 +1,6 @@
-# mks-Bauteil
+# Grove Ultraschall Entfernungsmesser
 
-![Bauteil](./bauteil.png)
+![Bauteil](https://makeyourschool.de/wp-content/uploads/2018/10/17_ultraschallentfernungssensor-1024x1024.jpg)
 <!-- TODO: CONTENT change image -->
 <!-- TODO: ARCHITECTURE multiple images? -->
 <!-- do we need multiple images per part?-->
